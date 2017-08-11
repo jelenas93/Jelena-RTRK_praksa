@@ -4,7 +4,10 @@ int main()
 {
 	printf("Hello world !\n");
 	printf("Nesto novo\n");
-	printf("Jelena\n");
+	printf("Jovica\n");
+
+	printf("Guess who is back\n");
+	
 	return 0;
 
 }

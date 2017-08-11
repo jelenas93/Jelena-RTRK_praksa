@@ -7,9 +7,11 @@ int main()
 	printf("Jovica\n");
 
 	printf("Guess who is back\n");
+
 	printf("this is getting ridiculous\n");
 
 	printf("8\n")
+
 	
 	return 0;
 

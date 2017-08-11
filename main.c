@@ -10,7 +10,11 @@ int main()
 
 	printf("this is getting ridiculous\n");
 
-	printf("8\n")
+	printf("8\n");
+
+	printf("Valjda zavrsna vjezba\n");
+
+	printf("Sad novo!\n");
 
 	
 	return 0;
